@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=334
+
+Yet another ASCII table plugin :). I often need to insert some high-ASCII character that my keymap doesn't allow to write and none of the *ASCII plugins I saw was so easy and quick to use, so I wrote my own. It's my first plugin for VIM and I welcome any bug reports, ideas and suggestions.
+
+Since version 2.0 it has ability to use any number of intervals to display and  to use any file for character input. UTF8 is supported as well.
